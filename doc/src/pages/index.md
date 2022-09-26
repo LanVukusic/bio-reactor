@@ -36,13 +36,13 @@ The most logical way to mount all the sensors and actuators was to make a air ti
 
 The hard part was designing the thread and an accurate diameter of the lid to be able to close it tightly. We made a series of test prints with different radii to find the one that fits the tightest.
 
-![lid test prints](../../public/img/lid_prints.png)
+![lid test prints](/img/lid_prints.png)
 
 The test print that we were comfortable with was printed and is shown on the bottom right.  
 
 Finding the radius that fits was not that difficult, but finding the correct way to make a thread was a bit challenging. It was difficult to measure the angle of teeth that grab the jar so trial and error was again the only viable option.  
 
-![lid design](../../public/img/lid_autocad.png)
+![lid design](/img/lid_autocad.png)
 
 The final option printed just great and allowed for a tight screw on.
 
@@ -67,7 +67,7 @@ With the sizes calculated, only thing left to choose was the shape of the mixer.
 
 Firstly we had to choose between `axial` (left) and `radial` (right) mixer heads:  
 
-![axial and radial mixer heads](../../public/img/mixer_heads.png)
+![axial and radial mixer heads](/img/mixer_heads.png)
 
  Different positioning and angles of the blades have their own pros and cons.  
 
@@ -84,8 +84,8 @@ vertical circulation are negligible for the reactor of this size.
 
 The designed part has an added mounting piece, so it can fit a screw to tighten it to the lead.  
 
-![mixer head design progression](../../public/img/mixer_designs.png)
+![mixer head design progression](/img/mixer_designs.png)
 
 The final part was printed from the last (right most) design:  
 
-![printed mixer head](../../public/img/mixer_print.jpg)
+![printed mixer head](/img/mixer_print.jpg)
