@@ -50,9 +50,6 @@ The final option printed just great and allowed for a tight screw on.
 
 The ability to mix the contents of the reactor is a crucial part to make sure that aeration is good and to prevent any sediment. Ideally, one would want to have micro-organisms distributed evenly inside the medium.  
 
-The design of the mixer blades was not trivial since it has to follow know guidelines for designing a bioreactor.  
-We were lucky since we, as students, had access to the PDF with said guidelines available as a part of the curriculum by professor [Romana Marinšek Logar](https://www.bf.uni-lj.si/sl/o-fakulteti/zaposleni/458/marinsek-logar-romana).
-
 The reactor has a dimeter of `d = 180mm` and height of roughly `h = 220mm`.
 The diameter `d_blade` and height `h_blade` of mixer blades can be calculated as follows:  
 
